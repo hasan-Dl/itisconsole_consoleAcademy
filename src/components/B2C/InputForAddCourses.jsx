@@ -55,11 +55,11 @@ export default function InputForAddCourses() {
                     <div className='flex flex-col gap-y-[1.042vw] w-[100%] '>
                         <div className='flex flex-col gap-y-[10px]  w-[100%]'>
                             <label className='text-[#5F6073] text-[0.938vw] font-semibold leading-[100%] ' htmlFor="">Название курса *</label>
-                            <input className=' rounded-[0.26vw] max-w-[100%] outline-none px-[1.042vw] py-[0.26vw] border-[#0085F9] border-[1px]' type="text" name="" id="" />
+                            <input className=' rounded-[0.26vw] max-w-[100%] outline-none px-[1.042vw] py-[13.5px] border-[#0085F9] border-[1px] leading-[100%]' type="text" name="" id="" />
                         </div>
                         <div className='flex flex-col gap-y-[10px]  w-[100%]'>
                             <label className='text-[#5F6073] text-[0.938vw] font-semibold leading-[100%] ' htmlFor="">Сумма к оплате *</label>
-                            <input className=' rounded-[0.26vw] max-w-[100%] outline-none px-[1.042vw] py-[0.26vw] border-[#0085F9] border-[1px]' type="text" name="" id="" />
+                            <input className=' rounded-[0.26vw] max-w-[100%] outline-none px-[1.042vw] py-[13.5px] border-[#0085F9] border-[1px] leading-[100%]' type="text" name="" id="" />
                         </div>
                         <div className='flex flex-col gap-y-[10px] w-[100%]'>
                             <label className='text-[#5F6073] text-[0.938vw] font-semibold leading-[100%]' htmlFor="">
